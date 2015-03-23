@@ -1,1 +1,9 @@
 Hello from backbone view
+<% if @test: %>
+<%=@test%>
+<% end %>
+<div class="navbar-fixed-bottom row-fluid">
+  <div><button class="btn  btn-primary">Test Button</button></div>
+  <div><button class="btn  btn-primary">Test Button</button></div>
+</div>
+

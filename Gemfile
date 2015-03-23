@@ -12,6 +12,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'backbone-on-rails'
 
+gem "twitter-bootstrap-rails"
+
 group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'

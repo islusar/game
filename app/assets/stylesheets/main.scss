@@ -1,3 +1,14 @@
-// Place all the styles related to the main controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  .container-fixed {
+    margin: 0 auto;
+  }
+  .navbar-fixed-bottom{
+    margin: 0 auto 20px;
+    .btn{
+      margin: 10px 0;
+      width: 90%;
+      height: 20%;
+    }
+  }
+
+}
